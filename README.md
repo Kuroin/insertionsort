@@ -1,5 +1,5 @@
-# Insertionsort
-Insertion Sort Algorithm for patika.dev
+# Sorts
+Sort Algorithms for patika.dev
 
 
 Aşamalar
@@ -25,5 +25,13 @@ Best Case: O(n)
 2.Adım-[2,3,4,8,7,9,5,6]
 3.Adım-[2,3,4,5,7,9,8,6]
 4.Adım-[2,3,4,5,6,9,8,7]
+
+Merge Sort
+
+                        [16,21,11,8,12,22]
+              [16,21,11]                [8,12,22]
+             [16] [21,11]              [8] [12,22]
+             [11,16,21]                [8,12,22]
+                       [8,11,12,16,21,22]
 
 
